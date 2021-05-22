@@ -34,7 +34,7 @@
                                 Before
 ```
 
-<img src="./Content/Screens/full VS code SS.png" alt="Getting Started" />
+<img src="./Content/Screens/VS code default.png" alt="Getting Started" />
 
 <!-- h1: 32px, h2: 24px, h3: 18.72px, h4: 16px, h5: 13.28px, h6: 12px -->
 
