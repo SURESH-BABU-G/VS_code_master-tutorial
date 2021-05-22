@@ -1,0 +1,22 @@
+ VS Code Master Tutorial Topic list
+----------------------------------------------------
+
+[1] Basic introduction on how much it's useful and how we can use to improve our productivity
+
+[2] Shortcuts and Keyboard Access
+
+[3] Theme of visual
+
+[4] Icons of Files and Folders
+
+[5] Code Decorations
+
+[6] Code comments
+
+[7] Font & legislatures
+
+[8] Plugins
+
+[9] Backup or sync everything for future use
+
+[X] Bonus content
