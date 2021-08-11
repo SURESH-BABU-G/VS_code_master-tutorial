@@ -33,14 +33,18 @@
 ***
 ```For MAC :```
 ```code
-cat extensions.list | % { code --install-extenstions $_}
-
+   cat extensions.list | % { code --install-extenstions $_}
 ````
 ***
 ```For Linux :```
 
 ``` code
-cat extensions.list | xargs -L 1 code --install-extenstions 
-
+   cat extensions.list | xargs -L 1 code --install-extenstions 
 ```
 ***
+
+# `Detailed Description for Minimal configuration`
+
+| Package                | Description             | Where it Required | How it Works               |
+| ---------------------- | ----------------------- | ----------------- | -------------------------- |
+| abusaidm.html-snippets | It's for HTML shortcuts | HTML creation     | h1*6 will create 6 h1 tags |
