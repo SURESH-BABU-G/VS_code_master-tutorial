@@ -48,3 +48,11 @@
 | Package                | Description             | Where it Required | How it Works               |
 | ---------------------- | ----------------------- | ----------------- | -------------------------- |
 | abusaidm.html-snippets | It's for HTML shortcuts | HTML creation     | h1*6 will create 6 h1 tags |
+|ecmel.vscode-html-css| It's for CSS selectors | while using Loops | when you type class, it shows used location |
+|zignd.html-css-class-completion | It's for CSS classes | Class Redirection | You can get suggesstion of used classes |
+|lonefy.vscode-js-css-html-formatter| --- | --- | --- |
+|tht13.html-preview-vscode| --- | --- | --- |
+|hdg.live-html-previewer| --- | --- | --- |
+|sibiraj-s.vscode-scss-formatter| --- | --- | --- |
+|mrmlnc.vscode-scss| --- | --- | --- |
+|ritwickdey.live-sass| --- | --- | --- |
