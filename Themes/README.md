@@ -15,9 +15,9 @@
 
 <div style="text-align:center;font-weight:800;font-size:20px;color:green">The Result would be looking some thing like below </div>
 <br />
-
+.3
 ```
-                                Before
+                                         Before
 ```
 
 <img src="./Content/Screens/VS code default.png" alt="Getting Started" />
