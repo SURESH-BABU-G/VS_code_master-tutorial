@@ -50,9 +50,9 @@
 | abusaidm.html-snippets | It's for HTML shortcuts | HTML creation     | h1*6 will create 6 h1 tags |
 |ecmel.vscode-html-css| It's for CSS selectors | while using Loops | when you type class, it shows used location |
 |zignd.html-css-class-completion | It's for CSS classes | Class Redirection | You can get suggesstion of used classes |
-|lonefy.vscode-js-css-html-formatter| --- | --- | --- |
-|tht13.html-preview-vscode| --- | --- | --- |
-|hdg.live-html-previewer| --- | --- | --- |
-|sibiraj-s.vscode-scss-formatter| --- | --- | --- |
-|mrmlnc.vscode-scss| --- | --- | --- |
-|ritwickdey.live-sass| --- | --- | --- |
+|lonefy.vscode-js-css-html-formatter| To indent the HTML file | HTML files | It indenets the HTML code in clean way to make the code more understandable |
+|tht13.html-preview-vscode| To preview the HTML code output | While coding HTML | It will show you the real time in HTML output |
+|hdg.live-html-previewer| To preview the HTML code output | While coding HTML | It will show you the real time in HTML output |
+|sibiraj-s.vscode-scss-formatter| It's a advanced version of CSS file formatter | It's for advanced CSS developer | It format the advanceed CSS files to make it clean |
+|mrmlnc.vscode-scss| It's a advanced version of CSS file formatter | It's for advanced CSS developer | It format the advanceed CSS files to make it clean |
+|ritwickdey.live-sass| SCSS file compiler | for SCSS file writer | It automatically compile SCSS files code to CSS |
