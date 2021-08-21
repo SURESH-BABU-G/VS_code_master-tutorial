@@ -18,7 +18,7 @@
 + I'll be adding more files and even in the below I'll be adding new plugins with date of update
 ```
 
-## <a href="[../../Conten/Configs/](https://github.com/SURESH-BABU-G/VS_code_master-tutorial/tree/main/Content/Configs)" download="extensions.list">Download Path</a> - `it consists all required list of pre-configured files.`
+## <a href="[../../Conten/Configs/](https://github.com/SURESH-BABU-G/VS_code_master-tutorial/tree/main/Content/Configs)">Configs Path</a> - `it consists all required list of pre-configured files.`
 
 ```diff
 * Please, Feel free to raise a bug or note for required language plugins or configuration for a language ( I research and make a uniq look and comfort for your requirement )
