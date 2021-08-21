@@ -15,7 +15,7 @@
  I'll be attaching all the configuration files, And I'll be attaching my system best configurations.
 ```
 
-## <a href="../../../Configs/extensions-web.list" download="extensions.list">Download File</a> - `it consists all required list of packages`
+## <a href="[../../../Configs/extensions-web.list](https://github.com/SURESH-BABU-G/VS_code_master-tutorial/blob/main/Content/Configs/extensions-web.list)" download="extensions.list">Download File</a> - `it consists all required list of packages`
 
 ```diff
 - Important is file should be renamed to extensions and extension will be .list (if it is not with same name)
