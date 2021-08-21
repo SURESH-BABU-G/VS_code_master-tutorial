@@ -43,7 +43,7 @@
 ```
 ***
 
-# `Detailed Description for Minimal configuration`
+# `Detailed Description for Web developement plugin configuration`
 
 | Package                | Description             | Where it Required | How it Works               |
 | ---------------------- | ----------------------- | ----------------- | -------------------------- |
